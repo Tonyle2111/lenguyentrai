@@ -47,8 +47,8 @@ public/assets/       Logo và ảnh minh họa
 
 Thả ảnh đúng tên vào `public/assets/photos/` là tự hiển thị; khi chưa có, site hiện nhãn tên file hoặc ô "Chờ bổ sung tư liệu".
 
-- Đã có: `lnt-img-01-xach-nuoc-duong-ong.png`, `lnt-img-02-von-tai-chinh-con-nguoi.png`, `lnt-img-03-cong-thuc-chuyen-giao.png`
-- Còn thiếu: `lnt-photo-p01-chan-dung.jpg`, `lnt-photo-p02-chan-dung-2.jpg`, `lnt-photo-p03-chia-se.jpg`, `lnt-photo-p04-nhom.jpg`, `lnt-photo-p05-suc-khoe.jpg`, `lnt-photo-p06-vinalink.jpg`, `lnt-img-04-thanh-cong-cung-nhau.png`, `lnt-img-05-sp500-ib.png`, `lnt-img-06-vinalink.png`, `lnt-img-07-dao-tao.png`, `lnt-img-08-tai-chinh.png` … `lnt-img-11-noi-tam.png`
+- Đã có: `lnt-img-01-xach-nuoc-duong-ong.png`, `lnt-img-02-von-tai-chinh-con-nguoi.png`, `lnt-img-03-cong-thuc-chuyen-giao.png`, `lnt-img-08-tru-cot-tai-chinh.png`
+- Còn thiếu: `lnt-photo-p01-chan-dung.jpg`, `lnt-photo-p02-chan-dung-2.jpg`, `lnt-photo-p03-chia-se.jpg`, `lnt-photo-p04-nhom.jpg`, `lnt-photo-p05-suc-khoe.jpg`, `lnt-photo-p06-vinalink.jpg`, `lnt-img-04-thanh-cong-cung-nhau.png`, `lnt-img-05-sp500-ib.png`, `lnt-img-06-vinalink.png`, `lnt-img-07-dao-tao.png`, `lnt-img-09-suc-khoe.png`, `lnt-img-10-moi-quan-he.png`, `lnt-img-11-noi-tam.png`
 
 ## Việc còn lại
 
