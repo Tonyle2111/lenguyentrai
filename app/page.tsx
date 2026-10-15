@@ -8,6 +8,7 @@ import { Icon, type IconName } from "@/components/ui/Icon";
 import { LinkCard, PillarCard, Section, SectionHead } from "@/components/ui/layout";
 import { Photo } from "@/components/ui/Photo";
 import { CompareCard } from "@/components/site/CompareCard";
+import { DongChayVideo } from "@/components/site/DongChayVideo";
 import { InkCTA } from "@/components/site/InkCTA";
 import { PipeSimulator } from "@/components/site/PipeSimulator";
 
@@ -59,9 +60,7 @@ function BucketVsPipe() {
         <Eyebrow>Xách nước hay xây đường ống</Eyebrow>
         <h2 className="h2 max-w-[18em]">Cùng là kiếm tiền, nhưng khác nhau ở cách tư duy.</h2>
       </div>
-      <div className="soft-edge mx-auto my-[clamp(28px,4vw,40px)] aspect-video max-w-[720px] tab:mb-[clamp(28px,4vw,48px)]">
-        <Photo file="lnt-img-01-xach-nuoc-duong-ong.png" alt="Minh họa người xách nước và người xây đường ống" className="bg-surface" imgClassName="object-contain" />
-      </div>
+      <DongChayVideo className="mx-auto my-[clamp(28px,4vw,40px)] max-w-[960px] tab:mb-[clamp(28px,4vw,48px)]" />
       <div className="grid items-stretch gap-4 tab:grid-cols-[minmax(0,1fr)_auto_minmax(0,1fr)] tab:gap-5">
         <CompareCard title="Xách nước" lines={BUCKET_LINES} chain={BUCKET_CHAIN} />
         <div className="flex h-14 w-14 items-center justify-center self-center justify-self-center rounded-full border border-line bg-page font-serif text-[18px] italic text-accent">hay</div>
