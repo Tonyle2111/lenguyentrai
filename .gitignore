@@ -1,0 +1,21 @@
+node_modules/
+.next/
+out/
+build/
+next-env.d.ts
+*.tsbuildinfo
+.env*.local
+.vercel
+npm-debug.log*
+.DS_Store
+Thumbs.db
+
+# Tư liệu gốc (không thuộc mã nguồn website)
+*.zip
+*.docx
+*.png.png
+lnt-logo-full-*@2x.png
+app-icon.tmp.png
+
+# Cấu hình công cụ cục bộ
+.claude/
